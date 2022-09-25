@@ -6,7 +6,7 @@ The repository consists of the code and data placed in the following documents:
 * [viewsAndDownloadsAnalysisPSSOH.R](https://github.com/pssoh/Views-and-Downloads-of-PSSOH-Documents/blob/main/viewsAndDownloadsAnalysisPSSOH.R) - an R code for analysis of views and downloads of openly available PSSOH documents
 * [popularityPSSOH.ods](https://github.com/pssoh/Views-and-Downloads-of-PSSOH-Documents/blob/main/popularityPSSOH.ods) - table with summary of views and downloads of openly available PSSOH documents
 
-## Data structure
+## Data Structure
 The table saved in "popularityPSSOH.ods" has the following structure:
 * **abstract**: documents with (1) and without (0) abstract
 * **paper**: documents with (1) and without (0) full paper
@@ -32,4 +32,9 @@ The table saved in "popularityPSSOH.ods" has the following structure:
 * **author4**: full name of the fourth author (if none - a cell is empty)
 
 ## Sample Results
-From the available code, one can get an insight into the views and downloads of the PSSOH documents including abstracts, presentations, full papers, agendas, etc.
+From the available code, one can get an insight into the views and downloads of the PSSOH documents including abstracts, presentations, full papers, agendas, etc. In the Fig. 1 a ranked list of the most viewed files on September 18, 2022 is given.
+![views](https://user-images.githubusercontent.com/41180160/192160068-33148b37-2007-492d-8347-f845bc2336ed.jpeg)
+<sub><sup>Figure 1. Ranked views for the PSSOH documents</sup></sub>
+In Fig. 2 a ranked list of the most downloaded files on September 18, 2022 is presented. What is rather interesting is the fact that views and downloads do not match. This may be the consequence of the sharing method on other Internet sources.
+![downloads](https://user-images.githubusercontent.com/41180160/192160080-5a21dd06-4475-49ce-8f05-5c68194c6769.jpeg)
+<sub><sup>Figure 2. Ranked downloads for the PSSOH documents</sup></sub>
