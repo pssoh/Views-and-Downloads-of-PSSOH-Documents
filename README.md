@@ -33,8 +33,13 @@ The table saved in "popularityPSSOH.ods" has the following structure:
 
 ## Sample Results
 From the available code, one can get an insight into the views and downloads of the PSSOH documents including abstracts, presentations, full papers, agendas, etc. In the Fig. 1 a ranked list of the most viewed files on September 18, 2022 is given.
+<p align="center">
 ![views](https://user-images.githubusercontent.com/41180160/192160068-33148b37-2007-492d-8347-f845bc2336ed.jpeg)
 <sub><sup>Figure 1. Ranked views for the PSSOH documents</sup></sub>
+</p>
+  
 In Fig. 2 a ranked list of the most downloaded files on September 18, 2022 is presented. What is rather interesting is the fact that views and downloads do not match. This may be the consequence of the sharing method on other Internet sources.
+<p align="center">
 ![downloads](https://user-images.githubusercontent.com/41180160/192160080-5a21dd06-4475-49ce-8f05-5c68194c6769.jpeg)
 <sub><sup>Figure 2. Ranked downloads for the PSSOH documents</sup></sub>
+</p>
