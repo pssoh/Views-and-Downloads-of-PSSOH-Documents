@@ -1,9 +1,10 @@
 # Views-and-Downloads-of-PSSOH-Documents
-This repository contains relevant information obtained from the Zenodo repositories on the uploaded PSSOH documents. Shared data and code are result of student internship authored by Lena Milovanović, master student at the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) in 2021/22 school year under the mentorship of the PSSOH Editor Assoc. Prof. [Nadica Miljković](https://github.com/NadicaSm). The occasion for such analysis is the PSSOH conference 5th jubilee.
+This repository contains relevant information obtained from the Zenodo repositories on the uploaded PSSOH documents. Shared data and code are result of student internship authored by Lena Milovanović, master student at the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) in 2021/22 school year under the mentorship of the PSSOH Editor Assoc. Prof. [Nadica Miljković](https://github.com/NadicaSm). The occasion for such analysis was the fifth jubilee of the PSSOH conference.
 
 The repository consists of the code and data placed in the following documents:
 * [viewsAndDownloadsAnalysisPSSOH.R](https://github.com/pssoh/Views-and-Downloads-of-PSSOH-Documents/blob/main/viewsAndDownloadsAnalysisPSSOH.R) - an R code for analysis of views and downloads of openly available PSSOH documents
 * [popularityPSSOH.ods](https://github.com/pssoh/Views-and-Downloads-of-PSSOH-Documents/blob/main/popularityPSSOH.ods) - table with summary of views and downloads of openly available PSSOH documents
+
 The table saved in "popularityPSSOH.ods" has the following structure:
 * abstract: documents with (1) and without (0) abstract
 * paper: documents with (1) and without (0) paper
